@@ -31,3 +31,9 @@ São configurações padrão para um arquivo CSS, não é recomendável que voc�
 // ...
 ```
 Você pode inserir seu código JavaScript, já linkado no HTML
+
+**Na pasta `src` você irá colocar tudo que é estático, incluindo `Imagens`, `Ícones` e `Fontes`**
+- src
+  - images
+  - icons
+  - fonts
